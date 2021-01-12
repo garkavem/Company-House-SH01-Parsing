@@ -1,0 +1,31 @@
+shares are allotted 30/10/2019
+
+Class of Shares: A ORDINARY Number allotted 346021
+
+Currency: GBP Nominal value ofeach share 0.001
+Amount paid: 3.0745
+Amount unpaid: 0
+
+No shares allotted other than for cash
+
+Class of Shares: A ORDINARY Number allotted 46335
+
+Currency: GBP Nominal value ofeach share 0.001
+Amount paid: 2.96
+Amount unpaid: 0
+
+No shares allotted other than for cash
+
+Class of Shares: A ORDINARY Number allotted 346021
+
+Currency: GBP Nominal value ofeach share 0.001
+Amount paid: 2.89
+Amount unpaid: 0
+
+No shares allotted other than for cash
+
+Class of Shares: A ORDINARY Number allotted 55095
+
+Currency: GBP Nominal value ofeach share 0.001
+Amount paid: 2.8071
+
