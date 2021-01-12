@@ -1,0 +1,3 @@
+[general]
+CompanyHouseKey = eSRHaxl9fDFECPsF7D4ahB25CKf5JZ17dP0sWhQ9
+Dir = data

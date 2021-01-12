@@ -1,0 +1,25 @@
+date'boxes. st”
+[A ee OE EEE
+1 ae Shares allotted
+Please give details of the shares allotted, including bonus shares. @ Currency
+(Please use a continuation page if necessary.) If currency details are not
+completed we will assume currency
+is in pound sterling.
+Currency @ Class of shares Number of shares Nominal value of Amount paid Amount (if any)
+
+(E.g. Ordinary/Preference etc.) allotted each share {including share unpaid (including
+premium) on each share premium) on
+share each share |
+
+GB Sterling (£) Ordinary A 3000 0.001 £2.53 _ a
+GB Sterling (£) Series A Preference ; 30255 0.001 £434.7826
+GB Sterling (£) Ordinary B 150 0.001 £2.53
+If the allotted shares are fully or partly paid up otherwise than in cash, please Continuation page
+state the consideration for which the shares were allotted. Please use a continuation page if
+necessary.
+Details of non-cash
+consideration.
+if a PLC, please attach
+valuation report (if
+appropriate)
+

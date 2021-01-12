@@ -1,0 +1,23 @@
+date’boxes,
+See
+a Shares allotted
+. Please give details of the shares allotted, including bonus shares. © Currency
+(Please use a continuation page if necessary.) if currency details are not
+completed we will assume currency
+is in pound sterling.
+Currency @ Class of shares Number of shares Nominal value of Amount paid Amount (if any)
+{E.g. Ordinary/Preference etc.) allotted each share {including share unpaid (including
+premium) on each share premium) on
+share each share
+STERLING B ORDINARY 150 £0.001 £2.53 £0
+STERLING B ORDINARY 50 £0.001 £4.88 £0
+: |
+if the allotted shares are fully or partly paid up otherwise than in cash, please Continuation page
+state the consideration for which the shares were allotted. Please use a continuation page if
+necessary.
+Details of non-cash
+consideration.
+Ifa PLC, please attach
+valuation report (if
+appropriate)
+
