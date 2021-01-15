@@ -10,10 +10,9 @@ This code does the following for the companies which Companies House ids are put
 
 There are different versions of document form in the database. The accuracy of our parcing method differs significantly for the documents of different types. So I estimated accuracy for each document type separately. 
 
-|            |   form_type | errors/checked documents |
-|:-----------|------------:|------------|
-| online     |        3832 |0/50
-| offline6   |         868 |3/20
-| online_old |         258 |6/20
-| offline5   |         188 |4/20
-| offline4   |           5 |
+|            |  errors/checked documents |
+|:-----------|------------|
+| online     | 0/50
+| offline6   | 3/20
+| online_old | 6/20
+| offline5   | 4/20  
